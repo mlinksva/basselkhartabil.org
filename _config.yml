@@ -1,1 +1,27 @@
+title: Bassel Khartabil Free Culture Fellowship
+email: info@basselkhartabil.org
+# @TODO get analytics code
+google_analytics: 
+
+show_downloads: false
+show_social: ["true"]
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_url: https://twitter.com/basselkhartabil
+instagram_url: https://instagram.com/basselkhartabil
+facebook_url: https://facebook.com/basselkhartabil
+
+# mine need to hook into
+history_url: http://web.archive.org/web/*/basselkhartabil.org
+
+# permalink: /:year/:month/:day/:title/
+
+
 theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
+
+
+
