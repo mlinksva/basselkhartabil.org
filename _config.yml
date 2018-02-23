@@ -20,7 +20,7 @@ history_url: http://web.archive.org/web/*/basselkhartabil.org
 
 theme: jekyll-theme-tactile
 
-gems:
+plugins:
   - jekyll-mentions
 
 

@@ -1,6 +1,6 @@
 <img id="logo" src="https://openclipart.org/image/32px/svg_to_png/194049/Fabricatorz-Symbol-Red.png" />
 
-### Global design & art technology studio. 
+### lobal design & art technology studio. 
 
 Founded in 2007, Fabricatorz materializes & manifests ground-breaking works hyperlinking digital and experiential spaces with cultural activation, community engagement, and business development. The Fabricatorz team is credited from projects with Fortune 500 companies, A-list International artists, top museums, galleries, and educational institutions.
 
