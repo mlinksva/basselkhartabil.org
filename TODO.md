@@ -9,4 +9,7 @@
 - [ ] spec out form for capturing input
 - [ ] add paths for communication
 - [ ] increase quality of reviewers
+- [ ] add bassel header logo
+- [ ] add partner logos
+
 
