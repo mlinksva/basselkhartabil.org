@@ -18,3 +18,32 @@ a {
 a:hover {
   color: black;
 }
+
+header {
+	background-image: url("/assets/img/basselhead-transparent.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+section#partner_logos {
+	margin-top: 25px;
+	display: inline-block;
+}
+
+div#leftcol {
+    float: left;
+    display: inline-block;
+    width: 45%;
+    margin-right: 5%;
+}
+
+div#rightcol {
+    float: right;
+    display: inline-block;
+    width: 45%;
+}
+
+.partners img {
+	margin-bottom: 25px;
+}

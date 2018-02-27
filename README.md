@@ -1,4 +1,4 @@
-<img id="logo" src="https://openclipart.org/image/32px/svg_to_png/194049/Fabricatorz-Symbol-Red.png" />
+<img id="logo" src="https://openclipart.org/image/32px/svg_to_png/194048/Fabricatorz-Symbol-Black.png" alt="Fabricatorz Symbol Black" />
 
 ### lobal design & art technology studio. 
 
