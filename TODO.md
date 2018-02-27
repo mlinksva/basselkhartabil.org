@@ -1,5 +1,11 @@
 # TODO
 
+- [x] setup infrastructure
+- [x] flesh out site (barry)
+- [x] setup redirect to handle domain
+
+
+
 - [ ] get proper default template for theme and replace 
   - [ ] `mv layouts _layouts; git add _layouts;`
 - [ ] make icon
