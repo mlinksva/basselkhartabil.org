@@ -1,23 +1,13 @@
-
-/* - - - Default - - - */
-
-/* Logo */
-#logo a {background-image:url('http://wufoo.com/images/themes/logos/shark.png'); min-height:0; height:40px}
-* html #logo a {/* IE6 png Support */
-	background-image: none;
-	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://wufoo.com/images/themes/logos/shark.png", sizingMethod="crop");
-}
-
 /* Backgrounds */
-html{background-image:none;background-color:#000000}
-#logo{background-image:none;background-color:#000000}
-#container{background:#000000}
+html{background-image:none;}
+#logo{background-image:none;}
+#container{}
 .wufoo input.text, .wufoo textarea.textarea{background:#ffffff}
 .wufoo .focused{background:#FFF7C0}
 .wufoo .instruct{background-color:#F5F5F5}
 
 /* Borders */
-#container{border:1 solid #000000}
+#container{border:1px solid #000000}
 .wufoo .info{border-bottom:1px dotted #CCCCCC}
 .wufoo .instruct{border:1px solid #e6e6e6}
 
