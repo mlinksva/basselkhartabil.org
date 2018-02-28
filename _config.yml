@@ -25,5 +25,12 @@ theme: jekyll-theme-tactile
 plugins:
   - jekyll-mentions
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      lang: "en"
+
 
 

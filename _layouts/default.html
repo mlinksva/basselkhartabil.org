@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ page.lang }}">
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -37,7 +37,7 @@
         <hr>
 
         <section id="big_description">
-          {% include big-description.html %}
+          {% include {{ page.lang }}/big-description.html %}
         </section>
 
         <section id="main_content">
@@ -45,11 +45,11 @@
         </section>
         
         <section id="submission_form">
-          {% include submission-form.html %}
+          {% include {{ page.lang }}/submission-form.html %}
         </section>
 
         <section id="partner_logos">
-          {% include partner-logos.html %}
+          {% include {{ page.lang }}/partner-logos.html %}
         </section>
 
         <section id="press">
