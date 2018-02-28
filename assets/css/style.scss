@@ -67,7 +67,7 @@ ul {
 	margin-top: 15px;
    	list-style-position: outside;
    	padding: 0;
-   	margin-left: 1em;
+   	margin-left: 15px;
 }
 
 ul li {
@@ -77,6 +77,10 @@ ul li {
 iframe {
 	margin: 0;
 	padding: 10px;
-	border: 1px solid #000000 !important;
+	border: 2px solid #000000 !important;
 	width: 100%;
+}
+
+.partners {
+	margin-top: 25px;
 }
