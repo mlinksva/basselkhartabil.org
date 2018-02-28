@@ -22,7 +22,7 @@ html{background-image:none;background-color:#000000}
 .wufoo .instruct{border:1px solid #e6e6e6}
 
 /* Typography */
-.wufoo .info h2{font-size:160%;font-family:inherit;color:#000000}
+.wufoo .info h2{font-size:18px;font-family:inherit;color:#d500d}
 .wufoo .info div{font-size:95%;font-family:inherit;color:#444444}
 .wufoo .section h3{font-size:110%;font-family:inherit;background:#FFFFFF;color:#000000}
 .wufoo .section div{font-size:85%;font-family:inherit;color:#444444}
