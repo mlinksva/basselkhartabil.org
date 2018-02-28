@@ -37,7 +37,7 @@
         <hr>
 
         <section id="big_description">
-          {% include {{ page.lang }}/big-description.html %}
+          {% include {{ page.lang | "en" }}/big-description.html %}
         </section>
 
         <section id="main_content">
@@ -45,14 +45,15 @@
         </section>
         
         <section id="submission_form">
-          {% include {{ page.lang }}/submission-form.html %}
+          {% include {{ page.lang | "en" }}/submission-form.html %}
         </section>
 
         <section id="partner_logos">
-          {% include {{ page.lang }}/partner-logos.html %}
+          {% include {{ page.lang | "en" }}/partner-logos.html %}
         </section>
 
         <footer>
+          {% include en/footer.html %}
         </footer>
 
       </div>
