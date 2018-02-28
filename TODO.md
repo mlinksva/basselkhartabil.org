@@ -5,20 +5,22 @@
 - [x] setup redirect to handle domain
 - [x] create icon (barry)
 - [ ] translate into arabic
-- [ ] add noura's bio to reviewers
 
-- [ ] get proper default template for theme and replace 
-  - [ ] `mv layouts _layouts; git add _layouts;`
-- [ ] make icon for social media
-- [ ] make favicon
+- [x] get proper default template for theme and replace 
+  - [x] `mv layouts _layouts; git add _layouts;`
+- [x] make icon for social media
+- [x] make favicon
 - [ ] get google analytics code
 - [x] flow in text from cc (barry)
-- [ ] simplify text
-- [ ] spec out form for capturing input
-- [ ] add paths for communication
-- [ ] increase quality of reviewers
+- [x] simplify text
+- [x] spec out form for capturing input
+- [ ] add paths for communication, ADD SOCIAL
+  - [x] creat social accounts
 - [x] add bassel header logo
 - [x] add partner logos
+- [ ] finish social footer
+- [ ] finish PRESS section
+- [ ] finish FAQ section
 
 - [ ] LAUNCH
   - [ ] send twitter post
