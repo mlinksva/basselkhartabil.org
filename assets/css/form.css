@@ -1,12 +1,13 @@
 /* Backgrounds */
 html{background-image:none;}
 #logo{background-image:none;}
-#container{}
 .wufoo input.text, .wufoo textarea.textarea{background:#ffffff}
 .wufoo .focused{background:#FFF7C0}
 .wufoo .instruct{background-color:#F5F5F5}
 
 /* Borders */
+.wufoo-form-container{border:1px solid #000000}
+.embed #container{width:100% !important;border:1px solid #000000;background:none !important;}
 #container{border:1px solid #000000}
 .wufoo .info{border-bottom:1px dotted #CCCCCC; padding-left:0px;display:none;}
 .wufoo .instruct{border:1px solid #e6e6e6}
