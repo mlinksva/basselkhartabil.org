@@ -65,4 +65,11 @@ p {
 
 ul {
 	margin-top: 15px;
+   	list-style-position: outside;
+   	padding: 0;
+   	margin-left: 1em;
+}
+
+ul li {
+	margin-top: 10px;
 }
