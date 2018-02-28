@@ -3,7 +3,7 @@
 - [x] setup infrastructure
 - [x] flesh out site (barry)
 - [x] setup redirect to handle domain
-- [ ] create icon (barry)
+- [x] create icon (barry)
 - [ ] translate into arabic
 - [ ] add noura's bio to reviewers
 
@@ -17,8 +17,8 @@
 - [ ] spec out form for capturing input
 - [ ] add paths for communication
 - [ ] increase quality of reviewers
-- [ ] add bassel header logo
-- [ ] add partner logos
+- [x] add bassel header logo
+- [x] add partner logos
 
 - [ ] LAUNCH
   - [ ] send twitter post
