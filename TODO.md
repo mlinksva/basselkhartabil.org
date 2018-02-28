@@ -3,7 +3,7 @@
 - [x] setup infrastructure
 - [x] flesh out site (barry)
 - [x] setup redirect to handle domain
-- [ ] create icon (barry)
+- [x] create icon (barry)
 - [ ] translate into arabic
 - [ ] add noura's bio to reviewers
 
