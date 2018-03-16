@@ -31,10 +31,12 @@
       <div class="inner">
 
         <header>
-        <h1>Bassel Khartabil <br /> Free Culture Fellowship</h1>
+        {% include {{ page.lang | "en" }}/header.html %}
         </header>
 
         <hr>
+
+        <p class="language-buttons"><span id="button-one"><a href="/">English</a></span><span id="button-two" dir="rtl"><a href="/ar">عربى</a></span></p>
 
         <section id="big_description">
           {% include {{ page.lang | "en" }}/big-description.html %}
@@ -49,19 +51,19 @@
         </section>
 
         <section id="partner_logos">
-          {% include partner-logos.html %}
+          {% include {{ page.lang | "en" }}/partner-logos.html %}
         </section>
 
         <section id="press">
-          {% include press.html %}
+          {% include {{ page.lang | "en" }}/press.html %}
         </section>
 
         <section id="social">
-          {% include social.html %}
+          {% include {{ page.lang | "en" }}/social.html %}
         </section>
 
         <section id="footer">
-          {% include footer.html %}
+          {% include {{ page.lang | "en" }}/footer.html %}
         </section>
 
       </div>

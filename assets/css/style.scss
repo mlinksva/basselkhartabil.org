@@ -83,3 +83,23 @@ iframe {
 .partners {
 	margin-top: 25px;
 }
+
+.language-buttons {
+    text-align: center;
+	font-size:2.5em;
+  	padding:10px;
+  	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#button-one {
+	padding: 15px;
+	border-right:1px solid #e0e0e0;
+  	border-radius:5px 0 0 5px;
+}
+
+#button-two {
+	padding: 15px;
+  	border-radius:0 5px 5px 0;
+}
