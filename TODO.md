@@ -4,26 +4,26 @@
 - [x] flesh out site (barry)
 - [x] setup redirect to handle domain
 - [x] create icon (barry)
-- [ ] translate into arabic
+- [x] translate into arabic
 
 - [x] get proper default template for theme and replace 
   - [x] `mv layouts _layouts; git add _layouts;`
 - [x] make icon for social media
 - [x] make favicon
-- [ ] get google analytics code
+- [x] get google analytics code
 - [x] flow in text from cc (barry)
 - [x] simplify text
 - [x] spec out form for capturing input
-- [ ] add paths for communication, ADD SOCIAL
+- [x] add paths for communication, ADD SOCIAL
   - [x] creat social accounts
 - [x] add bassel header logo
 - [x] add partner logos
-- [ ] finish social footer
-- [ ] finish PRESS section
-- [ ] finish FAQ section
+- [x] finish social footer
+- [x] finish PRESS section
+- [x] finish FAQ section
 
-- [ ] LAUNCH
-  - [ ] send twitter post
-  - [ ] send ig post out
-  - [ ] send out fb out
-  - [ ] send out mailing lists
+- [x] LAUNCH
+  - [x] send twitter post
+  - [x] send ig post out
+  - [x] send out fb out
+  - [x] send out mailing lists
