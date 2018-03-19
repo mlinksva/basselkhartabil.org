@@ -1,29 +1,15 @@
 # TODO
 
-- [x] setup infrastructure
-- [x] flesh out site (barry)
-- [x] setup redirect to handle domain
-- [x] create icon (barry)
-- [x] translate into arabic
+Hi this is a non-traditional list of TODOs. This is a list of projects that Bassel was going to work on or other people had talked with Bassel about. If you are having a hard time coming up with project idea, or want a simple path to pick a topic, this process is for you. THANKS! - the help ;)
 
-- [x] get proper default template for theme and replace 
-  - [x] `mv layouts _layouts; git add _layouts;`
-- [x] make icon for social media
-- [x] make favicon
-- [x] get google analytics code
-- [x] flow in text from cc (barry)
-- [x] simplify text
-- [x] spec out form for capturing input
-- [x] add paths for communication, ADD SOCIAL
-  - [x] creat social accounts
-- [x] add bassel header logo
-- [x] add partner logos
-- [x] finish social footer
-- [x] finish PRESS section
-- [x] finish FAQ section
+## nophotozone
 
-- [x] LAUNCH
-  - [x] send twitter post
-  - [x] send ig post out
-  - [x] send out fb out
-  - [x] send out mailing lists
+This is a project Bassel and Noura were going to work on together.
+
+## aikilab
+
+A makerspace platform.
+
+## Projects from Freebassel
+
+https://github.com/freebassel/community
