@@ -4,7 +4,8 @@ Hi this is a non-traditional list of TODOs. This is a list of projects that Bass
 
 ## nophotozone
 
-This is a project Bassel and Noura were going to work on together.
+This is a project Bassel and Noura were going to work on together. From Noura, "...[projects that] cares about human rights of the people who are not in the light. By highlighting the hidden people, the project was to support and raise their voices and make their stories known..."
+
 
 ## aikilab
 
